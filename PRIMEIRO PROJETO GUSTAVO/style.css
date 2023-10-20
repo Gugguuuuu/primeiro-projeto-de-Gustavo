@@ -1,0 +1,33 @@
+
+body{
+    background-color:color-mix(in srgb, rgb(0, 255, 255) 70%, rgb(17, 231, 17) 30%);
+}
+
+
+
+#html{
+    color: rgb(4, 0, 255);
+    text-align: center;
+    margin-top: 200px;
+    scale: 5;
+    text-shadow: 4px 4px 4px black
+    
+}
+#um{
+    margin-top: 100px;
+
+}
+#dois{
+    margin-top: 100px;
+
+}
+#tres{
+    margin-top: 100px;
+
+}
+#quatro{
+    margin-top: 100px;
+}
+#cinco{
+    margin-top: 100px;
+}
